@@ -2,10 +2,26 @@
     <channel>
         <title><![CDATA[Capital Solutions]]></title>
         <description><![CDATA[Capital Solutions]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/capsol/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 14:58:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Feb 2016 14:58:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/capsol/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>What We Do
+
+•	We help great companies seeking capital across ASEAN, India and Australia find  the right investors. 
+•	For Venture Capital, we focus on pre-Series A, A and B and for Private Equity and Debt funding our expertise is in finding investors for USD 3- 30 million. 
+•	We strategically work with leading venture capital funds to identify financing opportunities within their portfolio companies that have solid traction, proven management teams, strong investor support, great technology and large target markets who can offer investors superior risk-adjusted returns.
+•	 We help Family Offices and High Net Worth individuals who want to invest in companies, oftentimes where there is a recognised lead anchor investor.  
+•	We also do Secondaries, helping early investors to find exits.
+
+Based in Singapore, we are a seasoned, thoughtful, consultative, goal orientated and relationship driven team. 
+</p>]]></description>
+            <link>https://thegrid.ai/capsol/3f9d6217-d1ec-4238-98b4-8b4dc88c0638/index.html</link>
+            <guid isPermaLink="false">3f9d6217-d1ec-4238-98b4-8b4dc88c0638</guid>
+            <pubDate>Mon, 22 Feb 2016 14:58:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>CONTACT US
@@ -26,7 +42,7 @@ Xxxxx is a company incorporated in the Republic of Singapore with Registration N
 
  
 </p>]]></description>
-            <link>undefineda15dfbe3-3a5c-4e47-9306-3db904b2b0d1/index.html</link>
+            <link>https://thegrid.ai/capsol/a15dfbe3-3a5c-4e47-9306-3db904b2b0d1/index.html</link>
             <guid isPermaLink="false">a15dfbe3-3a5c-4e47-9306-3db904b2b0d1</guid>
             <pubDate>Mon, 22 Feb 2016 14:58:10 GMT</pubDate>
         </item>
