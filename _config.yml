@@ -1,0 +1,28 @@
+name: Capital Solutions
+favicon: null
+layout_spectrum: 0.6874945689924061
+typography_spectrum: 0.43099870765581727
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5714077046141028
+  lightness: 0.23697944567538798
+  saturation: 0.2937533538788557
+  rhythmicContrast: 0.7040705163963139
+purpose: []
